@@ -39,8 +39,9 @@ Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 *Georgia Institute of Technology -- Expected May 2027*
 
 **Bachelor of Arts in Computer Science and Data Science**
-*University of Wisconsin-Madison -- September 2022 - May 2025
+*University of Wisconsin-Madison* -- September 2022 - May 2025
 
 ## Contact
 **Email:** liumulan0808@gmail.com
+
 **LinkedIn:** linkedin.com/in/mulan-liu-542071260
