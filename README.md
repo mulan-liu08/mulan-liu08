@@ -11,12 +11,12 @@ Concepts | Object-oriented Programming, RESTful APIs, Data structures, Algorithm
 Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 
 ## Experience
-**Research Assistant &mdash; UW-Madison Department of Life Sciences Communication**
+**Research Assistant &mdash; UW-Madison Department of Life Sciences Communication**  
 *Madison, USA &mdash; July 2024 - Present*
 - Led efforts in using Facenet embeddings and web-scraped images to identify over 1000 celebrities depicted in 2 million images over 5 years of data across 60+ media outlets. 
 - Led analysis of depiction of celebrities to determine if visual media representations are politically biased.
 
-**Research Assistant &mdash; UW-Madison Department of Population Health Sciences**
+**Research Assistant &mdash; UW-Madison Department of Population Health Sciences**  
 *Madison, USA &mdash; June 2024 - December 2024*
 - Led development of an AngularJS web app in Ionic that implements a decision-making game, which will be deployed and sent out to gather data among teenage participants. 
 
