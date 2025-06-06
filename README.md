@@ -44,4 +44,4 @@ Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 ## Contact
 **Email:** liumulan0808@gmail.com
 
-**LinkedIn:** linkedin.com/in/mulan-liu-542071260
+**LinkedIn:** https://www.linkedin.com/in/mulan-liu-542071260/
