@@ -11,13 +11,13 @@ Concepts | Object-oriented Programming, RESTful APIs, Data structures, Algorithm
 Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 
 ## Experience
-**Research Assistant -- UW-Madison Department of Life Sciences Communication**
-*Madison, USA -- July 2024 - Present*
+**Research Assistant &mdash; UW-Madison Department of Life Sciences Communication**
+*Madison, USA &mdash; July 2024 - Present*
 - Led efforts in using Facenet embeddings and web-scraped images to identify over 1000 celebrities depicted in 2 million images over 5 years of data across 60+ media outlets. 
 - Led analysis of depiction of celebrities to determine if visual media representations are politically biased.
 
-**Research Assistant -- UW-Madison Department of Population Health Sciences**
-*Madison, USA -- June 2024 - December 2024*
+**Research Assistant &mdash; UW-Madison Department of Population Health Sciences**
+*Madison, USA &mdash; June 2024 - December 2024*
 - Led development of an AngularJS web app in Ionic that implements a decision-making game, which will be deployed and sent out to gather data among teenage participants. 
 
 ## Projects
@@ -36,10 +36,10 @@ Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 
 ## Education
 **Master of Science in Computer Science**
-*Georgia Institute of Technology -- Expected May 2027*
+*Georgia Institute of Technology &mdash; Expected May 2027*
 
 **Bachelor of Arts in Computer Science and Data Science**
-*University of Wisconsin-Madison* -- September 2022 - May 2025
+*University of Wisconsin-Madison* &mdash; September 2022 - May 2025
 
 ## Contact
 **Email:** liumulan0808@gmail.com
