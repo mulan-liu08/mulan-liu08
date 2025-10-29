@@ -21,6 +21,11 @@ Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 - Led development of an AngularJS web app in Ionic that implements a decision-making game, which will be deployed and sent out to gather data among teenage participants. 
 
 ## Projects
+**Every Verse Counts (Flutter, Rails, PostgreSQL)**
+- Current group project
+- Developing a Bible-reading tracker app for Georgia Tech's Atlanta Christian Students club
+- Aiming to be used by not only Georgia Tech's club but also sister clubs nationwide
+
 **Gradence (ReactJS, TypeScript, Vite, Supabase, Tailwind CSS)**
 - Developed a fullstack web app for anonymous class rating by students, covering various classes across multiple universities
 - Worked under a fast-paced environment with other students to submit this project within a span of three weeks, winning the overall best web app award among all other groups
