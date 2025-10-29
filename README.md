@@ -5,7 +5,7 @@ I am a student at Georgia Tech pursuing a Master of Science degree in Computer S
 Area | Technologies & Skills
 --- | ---
 Programming Languages | Java, Python, JavaScript, TypeScript, C, R
-Web Technologies | HTML, CSS, JavaScript, ReactJS, React Native, AngularJS, NodeJS
+Web Technologies | HTML, CSS, JavaScript, ReactJS, React Native, AngularJS, NodeJS, Flutter, Rails
 Databases | MongoDB, SQL
 Concepts | Object-oriented Programming, RESTful APIs, Data structures, Algorithms
 Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
