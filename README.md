@@ -21,6 +21,10 @@ Tools | Git, VSCode, Jupyter Notebook, Agile, Scrum, JIRA
 - Led development of an AngularJS web app in Ionic that implements a decision-making game, which will be deployed and sent out to gather data among teenage participants. 
 
 ## Projects
+**Gradence (ReactJS, TypeScript, Vite, Supabase, Tailwind CSS)**
+- Developed a fullstack web app for anonymous class rating by students, covering various classes across multiple universities
+- Worked under a fast-paced environment with other students to submit this project within a span of three weeks, winning the overall best web app award among all other groups
+
 **Habit Hero (MongoDB, ExpressJS, ReactJS, React Native, NodeJS, Bootstrap)**
 - Current solo project
 - Developing a habit tracker web app that allows users to fulfill their lifestyle goals
